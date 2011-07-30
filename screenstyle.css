@@ -1,0 +1,295 @@
+/**
+globals
+title#black
+ptitle#666666-gray
+titlebackground-black
+link#003366-blue
+bodytext#666666-dkgray
+bodyboxbackground#FFFFFF-white
+navbarhover#DDDDDD-gray
+softborder#999999-gray
+
+home page-default
+banner-./pics/brown2.jpg
+background#fafaf5-ltbeige
+h2background#e6e6cd-medbeige
+subbanner#e6e6cd-medbeige
+
+drchan page
+banner-./pics/brown2.jpg
+background#fafaf5-ltbeige
+h2background#e6e6cd-medbeige
+subbanner#e6e6cd-medbeige
+
+therapy page
+banner-./pics/brown2.jpg
+background#fafaf5-ltbeige
+h2background#e6e6cd-medbeige
+subbanner#e6e6cd-medbeige
+
+clinic page
+banner-./pics/brown2.jpg
+background#fafaf5-ltbeige
+h2background#e6e6cd-medbeige
+subbanner#e6e6cd-medbeige
+
+contact page
+banner-./pics/brown2.jpg
+background#fafaf5-ltbeige
+h2background#e6e6cd-medbeige
+subbanner#e6e6cd-medbeige
+*/
+/**
+*{
+padding: 0;
+margin: 0;
+}
+*/
+
+body {
+margin:0; padding:0; font-family:'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-size:0.95em; color:black; text-align:left; background-color:#DDDDDD;}
+
+p {
+margin:0 0 1em 0; padding:0.3em 2em 0.3em 2em;}
+
+h1 {
+padding:0; margin:0;font-size:2.5em; font-weight:bold; font-style:italic;
+color:black; font-family:'Georgia', 'trebuchet MS', Verdana, Arial, 'Times', Helvetica, sans-serif;}
+
+h2 {
+background-color:#e6e6cd; color:black; font-size:1.2em; font-weight:bold; margin:0 0 1em 0.2em; padding:0.2em; font-style:normal; font-family:'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; border-top:1px solid #999999; border-bottom:1px solid #999999; border-right:2px solid #999999; border-left:1px solid #999999; text-align:center;}
+body#demos h2 {
+background-color:#e6e6cd;}
+body#documentation h2 {
+background-color:#e6e6cd;}
+body#manual h2 {
+background-color:#e6e6cd;}
+body#downloads h2 {
+background-color:#e6e6cd;}
+body#develop h2 {
+background-color:#e6e6cd;}
+body#contact h2 {
+background-color:#e6e6cd;}
+
+table {
+background-color:white;
+border-collapse:collapse;
+border-spacing:0px;
+margin:0em 0em 0em 3em;
+padding:0em;
+font-size:0.7em;
+}
+
+p.tablefooter {
+font-size:0.7em;
+margin-left:1em;
+}
+
+td {
+border:1px #999999 solid;
+border-collapse:collapse;
+border-spacing:0px;
+margin:0px;
+padding:2px;
+}
+
+td.header {
+font-weight:bold;
+}
+
+td.spacer {
+background-color:#fafaf5;
+border:0px;
+padding:0em 2em 0em 0em;
+}
+
+
+
+div {
+margin:0; padding:0; display:block;}
+
+
+
+ul.dclist {
+list-style-type:square; padding:0; margin:0 0 1em 4em; text-indent:0;}
+
+
+
+a:link, a:visited {
+color:#003366; text-decoration:underline;}
+a:hover {
+color:black; text-decoration:none;}
+a:active {
+color:#003366; text-decoration:underline;}
+body#home a#homefooter,
+body#demos a#demosfooter,
+body#documentation a#documentationfooter,
+body#manual a#manualfooter,
+body#downloads a#downloadsfooter,
+body#develop a#developfooter,
+body#contact a#contactfooter {
+color:#003366; text-decoration:none; font-weight:bold;}
+
+
+
+.container {
+background-color:#fafaf5; margin:1em auto 1em auto; padding:0; width:85%; min-width:700px;}
+
+
+
+.titleblock {
+padding:43px 0 43px 0; margin:0; text-align:left;
+background-image:url(./pics/oemr_logo_444x80.jpg); background-color:black; background-repeat:no-repeat; background-position:left center; border-top:1px solid black; border-bottom:1px solid black; border-left:1px solid black; border-right:2px solid black;}
+
+.titleblock h1 {
+padding:2em 5em 0 0; margin:0; font-size:0.7em; color:white; font-weight:bold; font-style:italic; font-family:Verdana, Arial, 'Times', Helvetica, sans-serif; text-align:right;}
+
+.titleblock p {
+padding:0 5em 1em 0; margin:0; font-size:0.7em; color:white; font-weight:normal; font-style:normal; font-family:Verdana, Arial, 'Times', Helvetica, sans-serif; text-align:right;}
+
+a.titlelink:link, a.titlelink:visited {
+color:white; font-weight:bold; text-decoration:underline;}
+a.titlelink:hover {
+color:white; font-weight:bold; text-decoration:none;}
+a.titlelink:active {
+color:white; font-weight:bold; text-decoration:underline;}
+
+
+
+.subbanner {
+background-color:#e6e6cd; padding-top:2em; border-bottom:1px solid black; border-left:1px solid #999999; border-right:2px solid #999999;}
+body#demos .subbanner {
+background-color:#e6e6cd;}
+body#documentation .subbanner {
+background-color:#e6e6cd;}
+body#manual .subbanner {
+background-color:#e6e6cd;}
+body#downloads .subbanner {
+background-color:#e6e6cd;}
+body#develop .subbanner {
+background-color:#e6e6cd;}
+body#contact .subbanner {
+background-color:#e6e6cd;}
+
+
+ul.navbar {
+font-size:0.8em; font-family:'Georgia', 'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; list-style-type:none; float:left; display:block; line-height:21px; clear:both; margin:-23px 0 0 1em; padding:0; white-space: nowrap;}
+
+ul.navbar li {
+display:inline;}
+
+a.nav:link, a.nav:visited {
+display:block; float:left; padding:0 0.5em 0 0.5em; margin: 0 0.3em 0 0; text-decoration:none; background-color:#999999; color:#FFFFFF; border-top:1px solid #666666; border-left:1px solid #666666; border-right:2px solid #666666;}
+
+a.nav:hover {
+display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-decoration:none; background-color:#DDDDDD; color:black; border-top:1px solid black; border-left:1px solid black; border-right:2px solid black;}
+
+a.nav:active {
+display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-decoration:none; background-color:#999999; color:#FFFFFF; border-top:1px solid #666666; border-left:1px solid #666666; border-right:2px solid #666666;}
+
+body#home a.nav#homenav {
+margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#demos a.nav#demosnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#documentation a.nav#documentationnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#manual a.nav#manualnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#downloads a.nav#downloadsnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#develop a.nav#developnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#contact a.nav#contactnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+
+
+
+.contentfooterwrapper {
+border-left:1px solid black; border-right:2px solid black; border-bottom:1px solid black;}
+
+
+
+.rightcontainer {
+float:right; width:25%; min-width:13em; max-width:16em; margin:0; padding:1em 1em 0 0;}
+
+.rightcontainer h2 {
+text-align:center; margin-top:0.5em; margin-bottom:0; padding:0.2em 0.1em 0.1em 0.1em; font-size:0.80em;}
+
+.rightbox {
+margin:0.5em 0.5em 0.5em 0.5em; padding:0.3em; border-top:1px solid #999999; border-bottom:1px solid #999999; border-left:1px solid #999999; border-right:2px solid #999999; text-align:center; background-color:#FFFFFF;}
+
+.rightbox p {
+font-size:0.75em; text-align:left; margin:0.8em 1.5em 0.9em 0.9em; padding:0;}
+
+.linkbox {margin:2em 0.5em 0.5em 0.5em; padding:0.3em; border-top:1px solid #999999; border-bottom:1px solid #999999; border-left:1px solid #999999; border-right:2px solid #999999; text-align:left; background-color:#FFFFFF;}
+
+.linkbox p {text-align:left; margin:0.8em 0 0.9em 0.9em; padding:0; line-height:1.7em; font-size:0.9em;}
+
+.linkbox a {display:block;}
+
+
+
+ul.leftnav {
+font-family:'Georgia', 'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-size:0.8em; float:left; width:10em; margin:2em 5em 1em 3em; padding:0.5em; border:1px dashed #999999; text-align:left; list-style-type:none; white-space:nowrap; background-color:#FFFFFF;}
+
+
+
+.content2columns {
+text-align:left; margin:0; padding:2.2em 0 1em 1.5em; width:60%; max-width:38em;}
+
+.content2columns h2 {text-indent:3em;}
+
+.content {
+text-align:left; margin:0; padding:2.2em 2.2em 1em 1.5em; max-width:38em;}
+
+.content h2 {text-indent:3em;}
+
+
+
+.footer {
+color:#999999; font-size:0.8em; margin:2.5em 0.2em 0.5em 0.5em; padding:0.8em; 
+border-top:1px solid #999999; text-align:left; clear:both;}
+
+.footer .right {
+float:right; clear:right; text-align:right;}
+
+.footer p {margin:0;}
+
+
+
+/* This is the place for IE hacks */
+/* For some reason, all below hacks just make a static width of fallback value */
+/* minwidth ie hack which kind of work, keep checking */
+* html .container {
+width: 760px /* fallback value */;}
+width:expression(((document.compatMode && 
+document.compatMode=='CSS1Compat') ? 
+document.documentElement.clientWidth : 
+document.body.clientWidth) 
+> 1800 ? "1700px" : (((document.compatMode && 
+document.compatMode=='CSS1Compat') ? 
+document.documentElement.clientWidth : 
+document.body.clientWidth) < 560 ? "430px" : "99.7%"));}
+
+/* maxwidth em hack which seems to kind of work, keep checking */
+* html .content {width: 38em /* fallback value */; 
+width:expression(((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth : 
+document.body.clientWidth)>(970/12) 
+* parseInt(document.body.currentStyle.fontSize)?
+"38em" : (((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth :
+document.body.clientWidth) < 20 ? "10px" : "99%")); }
+
+* html .content2columns {width: 32em /* fallback value */;}
+width:expression(((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth : 
+document.body.clientWidth)>(970/12) 
+* parseInt(document.body.currentStyle.fontSize)?
+"32em" : (((document.compatMode &&
+document.compatMode=='CSS1Compat') ?
+document.documentElement.clientWidth :
+document.body.clientWidth) < 20 ? "10px" : "99%"));}
