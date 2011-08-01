@@ -22,6 +22,10 @@ background#fafaf5-ltbeige
 h2background#e6e6cd-medbeige
 subbanner#e6e6cd-medbeige
 
+pages:
+homenav
+wiki
+
 */
 /**
 *{
@@ -29,6 +33,9 @@ padding: 0;
 margin: 0;
 }
 */
+
+iframe {
+margin:1em 0 1em 0; width:100%; height:800px; border:none; scrolling:auto;}
 
 body {
 margin:0; padding:0; font-family:'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-size:0.95em; color:black; text-align:left; background-color:#DDDDDD;}
@@ -105,6 +112,9 @@ a:hover {
 color:black; text-decoration:none;}
 a:active {
 color:#003366; text-decoration:underline;}
+body#demo a#demofooter,
+body#download a#downloadfooter,
+body#wiki a#wikifooter,
 body#home a#homefooter,
 body#demos a#demosfooter,
 body#documentation a#documentationfooter,
@@ -171,6 +181,13 @@ display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-dec
 a.nav:active {
 display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-decoration:none; background-color:#999999; color:#FFFFFF; border-top:1px solid #666666; border-left:1px solid #666666; border-right:2px solid #666666;}
 
+
+body#demo a.nav#demonav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#download a.nav#downloadnav {
+margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#wiki a.nav#wikinav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#home a.nav#homenav {
 margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#demos a.nav#demosnav {
@@ -185,8 +202,6 @@ body#develop a.nav#developnav {
 margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#contact a.nav#contactnav {
 margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
-
-
 
 .contentfooterwrapper {
 border-left:1px solid black; border-right:2px solid black; border-bottom:1px solid black;}
