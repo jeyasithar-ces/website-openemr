@@ -18,16 +18,7 @@
 
   <link rel="stylesheet" type="text/css" href="screenstyle.css" />
 
-  <script type="text/javascript">
-   var _gaq = _gaq || [];
-   _gaq.push(['_setAccount', 'UA-8316288-7']);
-   _gaq.push(['_trackPageview']);
-   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-   })();
-  </script>
+  <script type="text/javascript" src="js/google_analytics.js"></script>
 
 </head>
 
@@ -36,32 +27,16 @@
 
 <div class="container">
 <!-- start header -->
-<div class="titleblock">
-</div>
-
-<div class="subbanner">
-</div>
-
-<div>
-<ul class="navbar">
-  <li><a href="." id="homenav" class="nav">Home</a></li>
-  <li><a id="demonav" href="demo.html" class="nav">Demo</a></li>
-  <li><a id="downloadnav" href="download.html" class="nav">Download</a></li>
-  <li><a id="wikinav" href="wiki.html" class="nav">Wiki</a></li>
-  <li><a target="_blank" href="http://sourceforge.net/projects/openemr/forums" class="nav">Forum</a></li>
-  <li><a target="_blank" href="http://www.oemr.org/" class="nav">OEMR</a></li>
-</ul>
-</div>
-
+<!--#include virtual="template/header.txt" -->
 <!-- end header -->
 <div class="contentfooterwrapper">
 <div class="rightcontainer">
 <div class="linkbox">
 <h2>Main Project Links</h2>
 <p>
-<a href="demo.html" title="Demo">Demo</a>
-<a href="download.html" title="Download">Download</a>
-<a href="wiki.html" title="Wiki">Wiki</a>
+<a href="demo.shtml" title="Demo">Demo</a>
+<a href="download.shtml" title="Download">Download</a>
+<a href="wiki.shtml" title="Wiki">Wiki</a>
 <a target="_blank" href="http://sourceforge.net/projects/openemr/forums" title="Forum">Forum</a>
 </p>
 </div>
@@ -104,21 +79,7 @@ The OpenEMR project is supported by <a target="_blank" href="http://www.oemr.org
 </div>
 
 <!-- start footer -->
-<div class="footer">
-<div class="right">
-<p>&copy; &lt;2011&gt; OpenEMR</p>
-
-</div>
-
-<p><a href="." id="homefooter">Home</a>
-| <a id="demofooter" href="demo.html">Demo</a>
-| <a id="downloadfooter" href="download.html">Download</a>
-| <a id="wikifooter" href="wiki.html">Wiki</a>
-| <a target="_blank" href="http://sourceforge.net/projects/openemr/forums">Forum</a>
-| <a target="_blank" href="http://www.oemr.org/">OEMR</a></p>
-
-</div>
-
+<!--#include virtual="template/footer.txt" -->
 <!-- end footer -->
 </div>
 

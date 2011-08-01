@@ -1,0 +1,14 @@
+<div class="footer">
+<div class="right">
+<p>&copy; &lt;2011&gt; OpenEMR</p>
+
+</div>
+
+<p><a href="." id="homefooter">Home</a>
+| <a id="demofooter" href="demo.shtml">Demo</a>
+| <a id="downloadfooter" href="download.shtml">Download</a>
+| <a id="wikifooter" href="wiki.shtml">Wiki</a>
+| <a target="_blank" href="http://sourceforge.net/projects/openemr/forums">Forum</a>
+| <a target="_blank" href="http://www.oemr.org/">OEMR</a></p>
+
+</div>
