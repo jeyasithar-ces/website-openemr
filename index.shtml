@@ -44,16 +44,16 @@
 <div class="linkbox">
 <h2>Popular Links</h2>
 <p>
-<a target="_blank" href="http://www.openmedsoftware.org/wiki/Main_Page#User_Manuals" title="User Manuals">User Manuals</a>
-<a target="_blank" href="http://www.openmedsoftware.org/wiki/FAQ" title="FAQ">FAQ</a>
-<a target="_blank" href="http://www.openmedsoftware.org/wiki/OpenEMR_Commercial_Help" title="Commercial Help">Commercial Help</a>
+<a href="user_manuals.shtml" title="User Manuals">User Manuals</a>
+<a href="faq.shtml" title="FAQ">FAQ</a>
+<a href="commercial_help.shtml" title="Commercial Help">Commercial Help</a>
 </p>
 </div>
 
 <div class="linkbox">
 <h2>Developer Links</h2>
 <p>
-<a target="_blank" href="http://www.openmedsoftware.org/wiki/Main_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
+<a href="develop_manuals.shtml" title="Developer Manuals">Developer Manuals</a>
 <a target="_blank" href="http://sourceforge.net/projects/openemr/develop" title="Sourceforge">Sourceforge</a>
 </p>
 </div>

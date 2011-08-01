@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--
+  Copyright (C) 2011 Brady Miller <brady@sparmy.com>
+
+  This program is free software; you can redistribute it and/or
+  modify it under the terms of the GNU General Public License
+  as published by the Free Software Foundation; either version 2
+  of the License, or (at your option) any later version.
+-->
+
+<head>
+
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type" />
+  <title>OpenEMR Project Website</title>
+
+
+  <link rel="stylesheet" type="text/css" href="screenstyle.css" />
+
+  <script type="text/javascript" src="js/google_analytics.js"></script>
+
+</head>
+
+
+<body id="wiki">
+
+<div class="container">
+<!-- start header -->
+<!--#include virtual="template/header.txt" -->
+<!-- end header -->
+<div class="contentfooterwrapper">
+
+<!-- start wiki content (iframe method) -->
+<div>
+<iframe src="http://www.openmedsoftware.org/wiki/OpenEMR_Commercial_Help"></iframe>
+</div>
+
+<!-- start wiki content (ajax method)
+<div id="inner_frame">
+</div> -->
+
+<!-- start footer -->
+<!--#include virtual="template/footer.txt" -->
+<!-- end footer -->
+
+</div>
+
+</div>
+
+</body>
+</html>
