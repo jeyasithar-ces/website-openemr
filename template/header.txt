@@ -11,6 +11,7 @@
   <li><a id="downloadnav" href="download.shtml" class="nav">Download</a></li>
   <li><a id="wikinav" href="wiki.shtml" class="nav">Wiki</a></li>
   <li><a id="forumnav" href="forum.shtml" class="nav">Forum</a></li>
-  <li><a target="_blank" href="http://www.oemr.org/" class="nav">OEMR</a></li>
+  <li><a id="sourceforgenav" href="sourceforge.shtml" class="nav">Sourceforge</a></li>
+  <li><a id="githubnav" href="github.shtml" class="nav">Github</a></li>
 </ul>
 </div>

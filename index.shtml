@@ -54,7 +54,8 @@
 <h2>Developer Links</h2>
 <p>
 <a href="develop_manuals.shtml" title="Developer Manuals">Developer Manuals</a>
-<a target="_blank" href="http://sourceforge.net/projects/openemr/develop" title="Sourceforge">Sourceforge</a>
+<a href="sourceforge.shtml" title="Sourceforge">Sourceforge (Main Repo)</a>
+<a href="github.shtml" title="Github">Github (Mirror Repo)</a>
 </p>
 </div>
 

@@ -9,6 +9,7 @@
 | <a id="downloadfooter" href="download.shtml">Download</a>
 | <a id="wikifooter" href="wiki.shtml">Wiki</a>
 | <a id="forumfooter" href="forum.shtml">Forum</a>
-| <a target="_blank" href="http://www.oemr.org/">OEMR</a></p>
+| <a id="sourceforgefooter" href="sourceforge.shtml">Sourceforge</a>
+| <a id="githubfooter" href="github.shtml">Github</a></p>
 
 </div>
