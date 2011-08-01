@@ -10,7 +10,7 @@
   <li><a id="demonav" href="demo.shtml" class="nav">Demo</a></li>
   <li><a id="downloadnav" href="download.shtml" class="nav">Download</a></li>
   <li><a id="wikinav" href="wiki.shtml" class="nav">Wiki</a></li>
-  <li><a target="_blank" href="http://sourceforge.net/projects/openemr/forums" class="nav">Forum</a></li>
+  <li><a id="forumnav" href="forum.shtml" class="nav">Forum</a></li>
   <li><a target="_blank" href="http://www.oemr.org/" class="nav">OEMR</a></li>
 </ul>
 </div>

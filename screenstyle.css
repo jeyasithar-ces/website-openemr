@@ -112,6 +112,7 @@ a:hover {
 color:black; text-decoration:none;}
 a:active {
 color:#003366; text-decoration:underline;}
+body#forum a#forumfooter,
 body#demo a#demofooter,
 body#download a#downloadfooter,
 body#wiki a#wikifooter,
@@ -181,7 +182,8 @@ display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-dec
 a.nav:active {
 display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-decoration:none; background-color:#999999; color:#FFFFFF; border-top:1px solid #666666; border-left:1px solid #666666; border-right:2px solid #666666;}
 
-
+body#forum a.nav#forumnav {
+margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#demo a.nav#demonav {
 margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#download a.nav#downloadnav {
