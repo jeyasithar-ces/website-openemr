@@ -35,7 +35,7 @@
 
 <!-- start wiki content (iframe method) -->
 <div>
-<iframe src="http://www.openmedsoftware.org/wiki/Main_Page#Developer_Manuals"></iframe>
+<iframe src="http://www.oemr.org/wiki/Main_Page#Developer_Manuals"></iframe>
 </div>
 
 <!-- start wiki content (ajax method)

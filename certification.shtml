@@ -35,7 +35,7 @@
 
 <!-- start wiki content (iframe method) -->
 <div>
-<iframe src="http://www.openmedsoftware.org/wiki/OpenEMR_Certification"></iframe>
+<iframe src="http://www.oemr.org/wiki/OpenEMR_Certification"></iframe>
 </div>
 
 <!-- start wiki content (ajax method)
