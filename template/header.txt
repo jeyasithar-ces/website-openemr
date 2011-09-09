@@ -13,6 +13,5 @@
   <li><a id="forumnav" href="forum.shtml" class="nav">Forum</a></li>
   <li><a id="oemrnav" href="oemr.shtml" class="nav">OEMR</a></li>
   <li><a id="sourceforgenav" href="sourceforge.shtml" class="nav">Sourceforge</a></li>
-  <li><a id="githubnav" href="github.shtml" class="nav">Github</a></li>
 </ul>
 </div>

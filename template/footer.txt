@@ -10,7 +10,6 @@
 | <a id="wikifooter" href="wiki.shtml">Wiki</a>
 | <a id="forumfooter" href="forum.shtml">Forum</a>
 | <a id="oemrfooter" href="oemr.shtml">OEMR</a>
-| <a id="sourceforgefooter" href="sourceforge.shtml">Sourceforge</a>
-| <a id="githubfooter" href="github.shtml">Github</a></p>
+| <a id="sourceforgefooter" href="sourceforge.shtml">Sourceforge</a></p>
 
 </div>
