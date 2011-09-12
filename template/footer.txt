@@ -4,12 +4,12 @@
 
 </div>
 
-<p><a href="." id="homefooter">Home</a>
-| <a id="demofooter" href="demo.shtml">Demo</a>
-| <a id="downloadfooter" href="download.shtml">Download</a>
-| <a id="wikifooter" href="wiki.shtml">Wiki</a>
-| <a id="forumfooter" href="forum.shtml">Forum</a>
-| <a id="oemrfooter" href="oemr.shtml">OEMR</a>
-| <a id="sourceforgefooter" href="sourceforge.shtml">Sourceforge</a></p>
+<p><a href="/" id="homefooter">Home</a>
+| <a id="demofooter" href="/demo.shtml">Demo</a>
+| <a id="downloadfooter" href="/download.shtml">Download</a>
+| <a id="wikifooter" href="/wiki.shtml">Wiki</a>
+| <a id="forumfooter" href="/forum.shtml">Forum</a>
+| <a id="oemrfooter" href="/oemr.shtml">OEMR</a>
+| <a id="sourceforgefooter" href="/sourceforge.shtml">Sourceforge</a></p>
 
 </div>
