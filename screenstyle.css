@@ -130,7 +130,7 @@ color:#003366; text-decoration:none; font-weight:bold;}
 
 
 
-.container {
+.container_webpage {
 background-color:#fafaf5; margin:1em auto 1em auto; padding:0; width:85%; min-width:700px;}
 
 
@@ -270,7 +270,7 @@ float:right; clear:right; text-align:right;}
 /* This is the place for IE hacks */
 /* For some reason, all below hacks just make a static width of fallback value */
 /* minwidth ie hack which kind of work, keep checking */
-* html .container {
+* html .container_webpage {
 width: 760px /* fallback value */;}
 width:expression(((document.compatMode && 
 document.compatMode=='CSS1Compat') ? 
