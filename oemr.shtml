@@ -25,7 +25,7 @@
 </head>
 
 
-<body id="oemr">
+<body id="oemr" class="webpage">
 
 <div class="container">
 <!-- start header -->
@@ -34,17 +34,17 @@
 <div class="contentfooterwrapper">
 <div class="rightcontainer">
 <div class="linkbox">
-<h2>Links</h2>
-<p>
-<a target="_blank" href="http://www.oemr.org/" title="OEMR">OEMR Website</a>
+<h2 class="webpage">Links</h2>
+<p class="webpage">
+<a class="webpage" target="_blank" href="http://www.oemr.org/" title="OEMR">OEMR Website</a>
 </p>
 </div>
 </div>
 
 <div class="content2columns">
-<h2>About OEMR</h2>
-<p>
-<a target="_blank" href="http://www.oemr.org/">OEMR</a> is a non-profit (501(c)(3)) organization that supports the OpenEMR project. <a target="_blank" href="http://www.oemr.org/">OEMR</a> has an open policy for membership and accepts donations (paypal link below). Please visit the <a target="_blank" href="http://www.oemr.org/">www.oemr.org</a> site for more details.
+<h2 class="webpage">About OEMR</h2>
+<p class="webpage">
+<a class="webpage" target="_blank" href="http://www.oemr.org/">OEMR</a> is a non-profit (501(c)(3)) organization that supports the OpenEMR project. <a class="webpage" target="_blank" href="http://www.oemr.org/">OEMR</a> has an open policy for membership and accepts donations (paypal link below). Please visit the <a class="webpage" target="_blank" href="http://www.oemr.org/">www.oemr.org</a> site for more details.
 </p>
 <div style="text-align:center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">

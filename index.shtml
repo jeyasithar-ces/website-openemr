@@ -25,7 +25,7 @@
 </head>
 
 
-<body id="home">
+<body id="home" class="webpage">
 
 <div class="container">
 <!-- start header -->
@@ -34,41 +34,41 @@
 <div class="contentfooterwrapper">
 <div class="rightcontainer">
 <div class="linkbox">
-<h2>Main Project Links</h2>
-<p>
-<a href="demo.shtml" title="Demo">Demo</a>
-<a href="download.shtml" title="Download">Download</a>
-<a href="wiki.shtml" title="Wiki">Wiki</a>
-<a href="forum.shtml" title="Forum">Forum</a>
+<h2 class="webpage">Main Project Links</h2>
+<p class="webpage">
+<a class="webpage" href="demo.shtml" title="Demo">Demo</a>
+<a class="webpage" href="download.shtml" title="Download">Download</a>
+<a class="webpage" href="wiki.shtml" title="Wiki">Wiki</a>
+<a class="webpage" href="forum.shtml" title="Forum">Forum</a>
 </p>
 </div>
 
 <div class="linkbox">
-<h2>Popular Links</h2>
-<p>
-<a href="user_manuals.shtml" title="User Manuals">User Manuals</a>
-<a href="faq.shtml" title="FAQ">FAQ</a>
-<a href="commercial_help.shtml" title="Commercial Help">Commercial Help</a>
-<a href="certification.shtml" title="Certification">Certification</a>
+<h2 class="webpage">Popular Links</h2>
+<p class="webpage">
+<a class="webpage" href="user_manuals.shtml" title="User Manuals">User Manuals</a>
+<a class="webpage" href="faq.shtml" title="FAQ">FAQ</a>
+<a class="webpage" href="commercial_help.shtml" title="Commercial Help">Commercial Help</a>
+<a class="webpage" href="certification.shtml" title="Certification">Certification</a>
 </p>
 </div>
 
 <div class="linkbox">
-<h2>Developer Links</h2>
-<p>
-<a href="develop_manuals.shtml" title="Developer Manuals">Developer Manuals</a>
-<a href="sourceforge.shtml" title="Sourceforge">Sourceforge (Main Repo)</a>
+<h2 class="webpage">Developer Links</h2>
+<p class="webpage">
+<a class="webpage" href="develop_manuals.shtml" title="Developer Manuals">Developer Manuals</a>
+<a class="webpage" href="sourceforge.shtml" title="Sourceforge">Sourceforge (Main Repo)</a>
 </p>
 </div>
 
 </div>
 
 <div class="content2columns">
-<h2>About OpenEMR</h2>
-<p>
+<h2 class="webpage">About OpenEMR</h2>
+<p class="webpage">
 OpenEMR is a Free and Open Source electronic health records and medical practice management application. It is <a target="_blank" style="color:blue" href="http://tinyurl.com/4sgaw8a"><b>ONC modular "Meaningful Use" certified</b></a> and it features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and a whole lot more. It can run on Windows, Linux, Mac OS X, and many other platforms.</p>
 
-<p>
+<p class="webpage">
 The OpenEMR project is supported by <a target="_blank" href="http://www.oemr.org/">OEMR</a>. <a target="_blank" href="http://www.oemr.org/">OEMR</a> is a non-profit (501(c)(3)) organization that accepts donations:
 </p>
 <div style="text-align:center;">

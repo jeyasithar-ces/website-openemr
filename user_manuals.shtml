@@ -25,7 +25,7 @@
 </head>
 
 
-<body id="wiki">
+<body id="wiki" class="webpage">
 
 <div class="container">
 <!-- start header -->
@@ -34,8 +34,8 @@
 <div class="contentfooterwrapper">
 
 <!-- start wiki content (iframe method) -->
-<div>
-<iframe src="http://www.oemr.org/wiki/Main_Page#User_Manuals"></iframe>
+<div class="webpage">
+<iframe src="http://www.oemr.org/wiki/Main_Page#User_Manuals" class="webpage"></iframe>
 </div>
 
 <!-- start wiki content (ajax method)

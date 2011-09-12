@@ -25,7 +25,7 @@
 </head>
 
 
-<body id="forum">
+<body id="forum" class="webpage">
 
 <div class="container">
 <!-- start header -->
@@ -34,8 +34,8 @@
 <div class="contentfooterwrapper">
 
 <!-- start content (iframe method) -->
-<div>
-<iframe src="http://sourceforge.net/projects/openemr/forums"></iframe>
+<div class="webpage">
+<iframe src="http://sourceforge.net/projects/openemr/forums" class="webpage"></iframe>
 </div>
 
 <!-- start wiki content (ajax method)
