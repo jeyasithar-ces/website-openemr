@@ -5,9 +5,9 @@
 </div>
 
 <p class="webpage"><a class="webpage" href="/" id="homefooter">Home</a>
-| <a class="webpage" id="demofooter" href="/demo.shtml">Demo</a>
-| <a class="webpage" id="downloadfooter" href="/download.shtml">Download</a>
-| <a class="webpage" id="wikifooter" href="/wiki.shtml">Wiki</a>
+| <a class="webpage" id="demofooter" href="/wiki/index.php/Development_4.1.x_Demo">Demo</a>
+| <a class="webpage" id="downloadfooter" href="/wiki/index.php/OpenEMR_Downloads">Download</a>
+| <a class="webpage" id="wikifooter" href="/wiki">Wiki</a>
 | <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a>
 | <a class="webpage" id="oemrfooter" href="/oemr.shtml">OEMR</a>
 | <a class="webpage" id="sourceforgefooter" href="/sourceforge.shtml">Sourceforge</a></p>

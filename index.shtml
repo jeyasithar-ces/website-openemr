@@ -36,9 +36,9 @@
 <div class="linkbox">
 <h2 class="webpage">Main Project Links</h2>
 <p class="webpage">
-<a class="webpage" href="demo.shtml" title="Demo">Demo</a>
-<a class="webpage" href="download.shtml" title="Download">Download</a>
-<a class="webpage" href="wiki.shtml" title="Wiki">Wiki</a>
+<a class="webpage" href="/wiki/index.php/Development_4.1.x_Demo" title="Demo">Demo</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Downloads" title="Download">Download</a>
+<a class="webpage" href="/wiki" title="Wiki">Wiki</a>
 <a class="webpage" href="forum.shtml" title="Forum">Forum</a>
 </p>
 </div>
@@ -46,17 +46,17 @@
 <div class="linkbox">
 <h2 class="webpage">Popular Links</h2>
 <p class="webpage">
-<a class="webpage" href="user_manuals.shtml" title="User Manuals">User Manuals</a>
-<a class="webpage" href="faq.shtml" title="FAQ">FAQ</a>
-<a class="webpage" href="commercial_help.shtml" title="Commercial Help">Commercial Help</a>
-<a class="webpage" href="certification.shtml" title="Certification">Certification</a>
+<a class="webpage" href="/wiki/index.php/Main_Page#User_Manuals" title="User Manuals">User Manuals</a>
+<a class="webpage" href="/wiki/index.php/FAQ" title="FAQ">FAQ</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Commercial_Help" title="Commercial Help">Commercial Help</a>
+<a class="webpage" href="/wiki/index.php/Main_Page#Complete_Ambulatory_EHR_Certification" title="Certification">Certification</a>
 </p>
 </div>
 
 <div class="linkbox">
 <h2 class="webpage">Developer Links</h2>
 <p class="webpage">
-<a class="webpage" href="develop_manuals.shtml" title="Developer Manuals">Developer Manuals</a>
+<a class="webpage" href="/wiki/index.php/Main_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
 <a class="webpage" href="sourceforge.shtml" title="Sourceforge">Sourceforge (Main Repo)</a>
 </p>
 </div>
