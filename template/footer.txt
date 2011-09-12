@@ -1,15 +1,15 @@
-<div class="footer">
+<div class="footer_webpage">
 <div class="right">
-<p>&copy; &lt;2011&gt; OpenEMR</p>
+<p class="webpage">&copy; &lt;2011&gt; OpenEMR</p>
 
 </div>
 
-<p><a href="/" id="homefooter">Home</a>
-| <a id="demofooter" href="/demo.shtml">Demo</a>
-| <a id="downloadfooter" href="/download.shtml">Download</a>
-| <a id="wikifooter" href="/wiki.shtml">Wiki</a>
-| <a id="forumfooter" href="/forum.shtml">Forum</a>
-| <a id="oemrfooter" href="/oemr.shtml">OEMR</a>
-| <a id="sourceforgefooter" href="/sourceforge.shtml">Sourceforge</a></p>
+<p class="webpage"><a class="webpage" href="/" id="homefooter">Home</a>
+| <a class="webpage" id="demofooter" href="/demo.shtml">Demo</a>
+| <a class="webpage" id="downloadfooter" href="/download.shtml">Download</a>
+| <a class="webpage" id="wikifooter" href="/wiki.shtml">Wiki</a>
+| <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a>
+| <a class="webpage" id="oemrfooter" href="/oemr.shtml">OEMR</a>
+| <a class="webpage" id="sourceforgefooter" href="/sourceforge.shtml">Sourceforge</a></p>
 
 </div>

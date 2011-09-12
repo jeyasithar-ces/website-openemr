@@ -4,7 +4,7 @@
 <div class="subbanner">
 </div>
 
-<div>
+<div class="webpage">
 <ul class="navbar">
   <li><a href="/" id="homenav" class="nav">Home</a></li>
   <li><a id="demonav" href="/demo.shtml" class="nav">Demo</a></li>
