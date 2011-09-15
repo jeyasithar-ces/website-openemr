@@ -9,7 +9,6 @@
 | <a class="webpage" id="downloadfooter" href="/wiki/index.php/OpenEMR_Downloads">Download</a>
 | <a class="webpage" id="wikifooter" href="/wiki">Wiki</a>
 | <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a>
-| <a class="webpage" id="oemrfooter" href="/oemr.shtml">OEMR</a>
-| <a class="webpage" id="sourceforgefooter" href="/sourceforge.shtml">Sourceforge</a></p>
+| <a class="webpage" id="oemrfooter" href="/oemr.shtml">OEMR</a></p>
 
 </div>

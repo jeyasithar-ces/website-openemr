@@ -12,6 +12,5 @@
   <li><a id="wikinav" href="/wiki" class="nav">Wiki</a></li>
   <li><a id="forumnav" href="/forum.shtml" class="nav">Forum</a></li>
   <li><a id="oemrnav" href="/oemr.shtml" class="nav">OEMR</a></li>
-  <li><a id="sourceforgenav" href="/sourceforge.shtml" class="nav">Sourceforge</a></li>
 </ul>
 </div>
