@@ -245,12 +245,12 @@ font-family:'Georgia', 'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; fo
 
 
 .content2columns {
-text-align:left; margin:0; padding:2.2em 0 1em 1.5em; width:60%; max-width:38em;}
+text-align:left; margin:0; padding:2.2em 0 1em 1.5em; width:60%; max-width:45em;}
 
 .content2columns h2 {text-indent:3em;}
 
 .content {
-text-align:left; margin:0; padding:2.2em 2.2em 1em 1.5em; max-width:38em;}
+text-align:left; margin:0; padding:2.2em 2.2em 1em 1.5em; max-width:45em;}
 
 .content h2 {text-indent:3em;}
 
@@ -282,7 +282,7 @@ document.documentElement.clientWidth :
 document.body.clientWidth) < 560 ? "430px" : "99.7%"));}
 
 /* maxwidth em hack which seems to kind of work, keep checking */
-* html .content {width: 38em /* fallback value */; 
+* html .content {width: 45em /* fallback value */; 
 width:expression(((document.compatMode &&
 document.compatMode=='CSS1Compat') ?
 document.documentElement.clientWidth : 
@@ -293,7 +293,7 @@ document.compatMode=='CSS1Compat') ?
 document.documentElement.clientWidth :
 document.body.clientWidth) < 20 ? "10px" : "99%")); }
 
-* html .content2columns {width: 32em /* fallback value */;}
+* html .content2columns {width: 39em /* fallback value */;}
 width:expression(((document.compatMode &&
 document.compatMode=='CSS1Compat') ?
 document.documentElement.clientWidth : 
