@@ -36,9 +36,9 @@
 <div class="linkbox">
 <h2 class="webpage">Main Project Links</h2>
 <p class="webpage">
-<a class="webpage" href="/wiki/index.php/Development_4.1.x_Demo" title="Demo">Demo</a>
-<a class="webpage" href="/wiki/index.php/OpenEMR_Downloads" title="Download">Download</a>
-<a class="webpage" href="/wiki/" title="Wiki">Wiki</a>
+<a class="webpage" href="wiki/index.php/Development_4.1.x_Demo" title="Demo">Demo</a>
+<a class="webpage" href="wiki/index.php/OpenEMR_Downloads" title="Download">Download</a>
+<a class="webpage" href="wiki/" title="Wiki">Wiki</a>
 <a class="webpage" href="forum.shtml" title="Forum">Forum</a>
 </p>
 </div>
@@ -46,19 +46,25 @@
 <div class="linkbox">
 <h2 class="webpage">Popular Links</h2>
 <p class="webpage">
-<a class="webpage" href="/wiki/index.php/Main_Page#User_Manuals" title="User Manuals">User Manuals</a>
-<a class="webpage" href="/wiki/index.php/FAQ" title="FAQ">FAQ</a>
-<a class="webpage" href="/wiki/index.php/OpenEMR_Commercial_Help" title="Commercial Help">Commercial Help</a>
-<a class="webpage" href="/wiki/index.php/Main_Page#Complete_Ambulatory_EHR_Certification" title="Certification">Certification</a>
+<a class="webpage" href="wiki/index.php/Main_Page#User_Manuals" title="User Manuals">User Manuals</a>
+<a class="webpage" href="wiki/index.php/FAQ" title="FAQ">FAQ</a>
+<a class="webpage" href="wiki/index.php/OpenEMR_Commercial_Help" title="Commercial Help">Commercial Help</a>
+<a class="webpage" href="wiki/index.php/Main_Page#Complete_Ambulatory_EHR_Certification" title="Certification">Certification</a>
 </p>
 </div>
 
 <div class="linkbox">
 <h2 class="webpage">Developer Links</h2>
 <p class="webpage">
-<a class="webpage" href="/wiki/index.php/Main_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
-<a class="webpage" target="_blank" href="http://sourceforge.net/projects/openemr/develop" title="Sourceforge">Sourceforge (Main Repo)</a>
-</p>
+<a class="webpage" href="wiki/index.php/Main_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
+<a class="webpage" target="_blank" href="http://sourceforge.net/tracker/?group_id=60081" title="Tracker">Tracker</a>
+Main Repository:
+<a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://sourceforge.net/projects/openemr/develop" title="Sourceforge">Sourceforge</a>
+Repository mirrors:
+<a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://github.com/openemr/openemr" title="Github">Github</a>
+<a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://code.google.com/p/openemr" title="Google Code">Google Code</a>
+<a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://gitorious.org/openemr/openemr" title="Gitorious">Gitorious</a>
+<a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://repo.or.cz/w/openemr.git" title="Repo.or.cz">Repo.or.cz</a></p>
 </div>
 
 </div>
@@ -79,6 +85,26 @@ The OpenEMR project is supported by <a target="_blank" href="http://www.oemr.org
 <img alt="" border=0 src="https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
+<br>
+<br>
+<h2 class="webpage" style="font-size:90%;">What is Open Source?</h2>
+<p class="webpage">
+Open-source software is software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. Open source code evolves through community cooperation and collaboration. These communities are composed of individual programmers as well as very large companies. Rather than proprietary companies wasting resources on building redundant software, open source communities and companies collaborate their resources to build software much more efficiently. It has been reported that open-source software has resulted in at least $60 billion dollars in savings to consumers.
+</p>
+<br>
+<h2 class="webpage" style="font-size:90%;">Why use an Open Source EMR?</h2>
+<p class="webpage">
+If Open Source software has resulted in $60 billion dollars in savings to consumers, then isn't it about time the healthcare sector also started to benefit from Open Source software?<br>
+<br>
+Just imagine the following:<br>
+1. You have access to free, feature-rich EMR software.<br>
+2. You have complete control over this EMR software.<br>
+3. You have complete control over your patient's data.<br>
+4. You can hire (and fire) whomever you want to support your EMR software.<br>
+<br>
+An Open Source EMR provides all of these things!!!<br>
+OpenEMR provides all of these things!!!<br>
+</p>
 </div>
 
 <!-- start footer -->
