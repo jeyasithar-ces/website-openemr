@@ -49,8 +49,6 @@ color:black; font-family:'Georgia', 'trebuchet MS', Verdana, Arial, 'Times', Hel
 
 h2.webpage {
 background-color:#e6e6cd; color:black; font-size:1.2em; font-weight:bold; margin:0 0 1em 0.2em; padding:0.2em; font-style:normal; font-family:'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; border-top:1px solid #999999; border-bottom:1px solid #999999; border-right:2px solid #999999; border-left:1px solid #999999; text-align:center;}
-body#features h2 {
-background-color:#e6e6cd;}
 body#demos h2 {
 background-color:#e6e6cd;}
 body#documentation h2 {
@@ -159,8 +157,6 @@ color:white; font-weight:bold; text-decoration:underline;}
 
 .subbanner {
 background-color:#e6e6cd; padding-top:2em; border-bottom:1px solid black; border-left:1px solid #999999; border-right:2px solid #999999;}
-body#features .subbanner {
-background-color:#e6e6cd;}
 body#demos .subbanner {
 background-color:#e6e6cd;}
 body#documentation .subbanner {
