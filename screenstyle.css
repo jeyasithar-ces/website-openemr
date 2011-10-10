@@ -268,6 +268,15 @@ float:right; clear:right; text-align:right;}
 
 .footer_webpage p {margin:0;}
 
+#twitter_update_list li {
+font-size:80%;
+font-weight:bold;
+margin-bottom:1.25em;
+}
+
+#twitter_body {
+padding:0 1.5em 0 1.5em;
+}
 
 
 /* This is the place for IE hacks */
