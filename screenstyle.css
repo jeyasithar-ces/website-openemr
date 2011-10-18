@@ -137,7 +137,7 @@ background-color:#fafaf5; margin:1em auto 1em auto; padding:0; width:85%; min-wi
 
 
 .titleblock {
-padding:43px 0 43px 0; margin:0; text-align:left;
+height:84px; padding:0 0 0 0; margin:0; text-align:left;
 background-image:url(./pics/oemr_logo_444x80.jpg); background-color:black; background-repeat:no-repeat; background-position:left center; border-top:1px solid black; border-bottom:1px solid black; border-left:1px solid black; border-right:2px solid black;}
 
 .titleblock h1 {
@@ -153,6 +153,9 @@ color:white; font-weight:bold; text-decoration:none;}
 a.titlelink:active {
 color:white; font-weight:bold; text-decoration:underline;}
 
+
+.titleblock_donate {
+text-align:right; margin:20px 20px 0 0;}
 
 
 .subbanner {
@@ -218,7 +221,7 @@ body#contact a.nav#contactnav {
 margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 
 .contentfooterwrapper {
-border-left:1px solid black; border-right:2px solid black; border-bottom:1px solid black;}
+padding-top:0.5em; border-left:1px solid black; border-right:2px solid black; border-bottom:1px solid black;}
 
 
 
