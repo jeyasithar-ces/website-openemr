@@ -10,17 +10,24 @@
 </div>
 
 <div class="subbanner" style="height:2.5em;">
-  <div class="social_net_links" style="text-align:right;padding-top:.85em">
-    <g:plusone size="small" annotation="none"></g:plusone>
-    <span class="st_facebook"></span>
-    <span class="st_twitter"></span>
-    <span class="st_digg"></span>
-    <span class="st_linkedin"></span>
-    <span class="st_reddit"></span>
-    <span class="st_stumbleupon"></span>
-    <span class="st_gbuzz"></span>
-    <span class="st_email"></span>
+  <div class="social_net_links_recommend" style="text-align:right;padding-top:.85em">
+    <g:plusone size="small" annotation="bubble"></g:plusone>
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+    <script type="text/javascript">
+      document.write('<fb:like send="true" layout="button_count" show_faces="false" width="100"></fb:like>')
+    </script>
+  </div>
+  <div class="social_net_links_share" style="text-align:right;padding-top:.5em;">
     <span class="st_sharethis"></span>
+    <span class="st_facebook" title="Send to Facebook"></span>
+    <span class="st_twitter" title="Tweet This"></span>
+    <span class="st_digg" title="Send to Digg"></span>
+    <span class="st_linkedin" title="Send to Linkedin"></span>
+    <span class="st_reddit" title="Send to Reddit"></span>
+    <span class="st_delicious" title="Send to Delicious"></span>
+    <span class="st_stumbleupon" title="Send to Stumbleupon"></span>
+    <span class="st_gbuzz" title="Send to Google Buzz"></span>
+    <span class="st_email" title="Email"></span>
   </div>
 </div>
 
