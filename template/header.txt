@@ -9,8 +9,8 @@
   </div>
 </div>
 
-<div class="subbanner" style="padding-top:1em;">
-  <div class="social_net_links" style="text-align:right;margin-bottom:0.2em;">
+<div class="subbanner" style="height:2.5em;">
+  <div class="social_net_links" style="text-align:right;padding-top:.85em">
     <g:plusone size="small" annotation="none"></g:plusone>
     <span class="st_facebook"></span>
     <span class="st_twitter"></span>
