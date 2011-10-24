@@ -9,7 +9,19 @@
   </div>
 </div>
 
-<div class="subbanner">
+<div class="subbanner" style="padding-top:1em;">
+  <div class="social_net_links" style="text-align:right;margin-bottom:0.2em;">
+    <g:plusone size="small" annotation="none"></g:plusone>
+    <span class="st_facebook"></span>
+    <span class="st_twitter"></span>
+    <span class="st_digg"></span>
+    <span class="st_linkedin"></span>
+    <span class="st_reddit"></span>
+    <span class="st_stumbleupon"></span>
+    <span class="st_gbuzz"></span>
+    <span class="st_email"></span>
+    <span class="st_sharethis"></span>
+  </div>
 </div>
 
 <div class="webpage">
