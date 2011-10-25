@@ -1,6 +1,9 @@
 <div class="footer_webpage">
 <div class="right">
-<p class="webpage"><span style="color:black;">Follow OpenEMR:</span> <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img src="/pics/FaceBook-icon.png"></a> <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img src="/pics/Twitter-icon.png"></a> &nbsp&nbsp&nbsp&nbsp &copy; &lt;2011&gt; OpenEMR</p>
+<p class="webpage"><span style="color:black;">Follow OpenEMR:</span>
+<a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/FaceBook-icon.png"></a>
+<a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/Twitter-icon.png"></a>
+&nbsp&nbsp&nbsp&nbsp &copy; &lt;2011&gt; OpenEMR</p>
 
 </div>
 
