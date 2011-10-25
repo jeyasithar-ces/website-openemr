@@ -11,14 +11,13 @@
 
 <div class="subbanner" style="height:2.5em;">
   <div class="social_net_links_recommend" style="text-align:right;padding-top:.85em;overflow:visible;">
-    <g:plusone size="small" annotation="bubble"></g:plusone>
     <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
     <script type="text/javascript">
-      document.write('<fb:like send="true" layout="button_count" show_faces="false" width="100"></fb:like>')
+      document.write('<fb:like send="false" layout="button_count" show_faces="false" width="100"></fb:like>')
     </script>
+    <g:plusone size="small" annotation="bubble"></g:plusone>
   </div>
   <div class="social_net_links_share" style="text-align:right;padding-top:.5em;">
-    <span class="st_sharethis"></span>
     <span class="st_facebook" title="Send to Facebook"></span>
     <span class="st_twitter" title="Tweet This"></span>
     <span class="st_digg" title="Send to Digg"></span>
@@ -28,6 +27,7 @@
     <span class="st_stumbleupon" title="Send to Stumbleupon"></span>
     <span class="st_gbuzz" title="Send to Google Buzz"></span>
     <span class="st_email" title="Email"></span>
+    <span class="st_sharethis"></span>
   </div>
 </div>
 
