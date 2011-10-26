@@ -18,16 +18,7 @@
     <g:plusone size="small" annotation="bubble"></g:plusone>
   </div>
   <div class="social_net_links_share" style="text-align:right;padding-top:.5em;">
-    <span class="st_facebook" title="Send to Facebook"></span>
-    <span class="st_twitter" title="Tweet This"></span>
-    <span class="st_digg" title="Send to Digg"></span>
-    <span class="st_linkedin" title="Send to Linkedin"></span>
-    <span class="st_reddit" title="Send to Reddit"></span>
-    <span class="st_delicious" title="Send to Delicious"></span>
-    <span class="st_stumbleupon" title="Send to Stumbleupon"></span>
-    <span class="st_gbuzz" title="Send to Google Buzz"></span>
-    <span class="st_email" title="Email"></span>
-    <span class="st_sharethis"></span>
+    <span  class='st_sharethis_button' displayText='ShareThis'></span>
   </div>
 </div>
 
