@@ -19,7 +19,7 @@
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">
   stLight.options({
-    publisher:'12345'
+    publisher:'7a5d7bbd-52c7-4ba0-a86e-36c0356fb830'
   });
 </script>
 
