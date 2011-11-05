@@ -76,7 +76,7 @@ Repository Mirrors:
 <div class="content2columns">
 <h2 class="webpage" style="font-size:140%;">About OpenEMR</h2>
 <p class="webpage">
-OpenEMR is a Free and Open Source electronic health records and medical practice management application. It is <a target="_blank" style="color:blue" href="http://onc-chpl.force.com/ehrcert/EHRProductDetail?id=a0X30000003mNwTEAU&retURL=%2Fehrcert%2FEHRProductSearch&setting=Ambulatory"><b>ONC Complete Ambulatory EHR certified</b></a> and it features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and <a href="http://open-emr.org/wiki/index.php/OpenEMR_Features">a whole lot more</a>. It can run on Windows, Linux, Mac OS X, and many other platforms.</p>
+OpenEMR is a Free and Open Source electronic health records and medical practice management application. OpenEMR is <a target="_blank" style="color:blue" href="http://onc-chpl.force.com/ehrcert/EHRProductDetail?id=a0X30000003mNwTEAU&retURL=%2Fehrcert%2FEHRProductSearch&setting=Ambulatory"><b>ONC Complete Ambulatory EHR certified</b></a> and OpenEMR features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and <a href="http://open-emr.org/wiki/index.php/OpenEMR_Features">a whole lot more</a>. OpenEMR can run on Windows, Linux, Mac OS X, and many other platforms.</p>
 
 <p class="webpage">
 The OpenEMR project is supported by <a target="_blank" href="http://www.oemr.org/">OEMR</a>. <a target="_blank" href="http://www.oemr.org/">OEMR</a> is a non-profit (501(c)(3)) organization that accepts donations ('Donate' link in banner).
