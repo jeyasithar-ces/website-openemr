@@ -23,6 +23,9 @@
 
   <script type="text/javascript" src="js/google_analytics.js"></script>
 
+  <!-- Google+ page publisher stuff for the web page, think only needs to be on main page -->
+  <link href="https://plus.google.com/106799034872780958301/" rel="publisher" />
+  
 </head>
 
 
