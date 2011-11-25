@@ -10,7 +10,7 @@
 
 <p class="webpage"><a class="webpage" href="/" id="homefooter">Home</a>
 | <a class="webpage" id="featuresfooter" href="/wiki/index.php/OpenEMR_Features">Features</a>
-| <a class="webpage" id="demofooter" href="/wiki/index.php/OpenEMR_Version_4.1.0_Demo">Demo</a>
+| <a class="webpage" id="demofooter" href="/wiki/index.php/OpenEMR_Demo">Demo</a>
 | <a class="webpage" id="downloadfooter" href="/wiki/index.php/OpenEMR_Downloads">Download</a>
 | <a class="webpage" id="wikifooter" href="/wiki/">Wiki</a>
 | <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a></p>
