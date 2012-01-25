@@ -51,17 +51,17 @@
 <div class="linkbox">
 <h2 class="webpage">Popular Links</h2>
 <p class="webpage">
-<a class="webpage" href="/wiki/index.php/Main_Page#User_Manuals" title="User Manuals">User Manuals</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Wiki_Home_Page#User_Manuals" title="User Manuals">User Manuals</a>
 <a class="webpage" href="/wiki/index.php/FAQ" title="FAQ">FAQ</a>
-<a class="webpage" href="/wiki/index.php/OpenEMR_Commercial_Help" title="Commercial Help">Commercial Help</a>
-<a class="webpage" href="/wiki/index.php/Main_Page#Complete_Ambulatory_EHR_Certification" title="Certification">Certification</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Professional_Support" title="Professional Support">Professional Support</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Wiki_Home_Page#Complete_Ambulatory_EHR_Certification" title="Certification">Certification</a>
 </p>
 </div>
 
 <div class="linkbox">
 <h2 class="webpage">Developer Links</h2>
 <p class="webpage">
-<a class="webpage" href="/wiki/index.php/Main_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
+<a class="webpage" href="/wiki/index.php/OpenEMR_Wiki_Home_Page#Developer_Manuals" title="Developer Manuals">Developer Manuals</a>
 <a class="webpage" target="_blank" href="http://sourceforge.net/tracker/?group_id=60081" title="Tracker">Tracker</a>
 Main Repository:
 <a class="webpage" style="margin:0 0 0 1em" target="_blank" href="http://sourceforge.net/projects/openemr/develop" title="Sourceforge">Sourceforge</a>
