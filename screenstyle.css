@@ -119,6 +119,7 @@ body#forum a#forumfooter,
 body#demo a#demofooter,
 body#download a#downloadfooter,
 body#wiki a#wikifooter,
+body#support a#supportfooter,
 body#home a#homefooter,
 body#features a#featuresfooter,
 body#demos a#demosfooter,
@@ -206,6 +207,8 @@ margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; borde
 body#home a.nav#homenav {
 margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#features a.nav#featuresnav {
+margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+body#support a.nav#supportnav {
 margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#demos a.nav#demosnav {
 margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}

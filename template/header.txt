@@ -30,5 +30,6 @@
   <li><a id="downloadnav" href="/wiki/index.php/OpenEMR_Downloads" class="nav">Download</a></li>
   <li><a id="wikinav" href="/wiki/" class="nav">Wiki</a></li>
   <li><a id="forumnav" href="/forum.shtml" class="nav">Forum</a></li>
+  <li><a id="supportnav" href="/wiki/index.php/OpenEMR_Support_Guide" class="nav">Support</a></li>
 </ul>
 </div>

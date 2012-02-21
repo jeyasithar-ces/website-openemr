@@ -13,7 +13,8 @@
 | <a class="webpage" id="demofooter" href="/wiki/index.php/OpenEMR_Demo">Demo</a>
 | <a class="webpage" id="downloadfooter" href="/wiki/index.php/OpenEMR_Downloads">Download</a>
 | <a class="webpage" id="wikifooter" href="/wiki/">Wiki</a>
-| <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a></p>
+| <a class="webpage" id="forumfooter" href="/forum.shtml">Forum</a>
+| <a class="webpage" id="supportfooter" href="/wiki/index.php/OpenEMR_Support_Guide">Support</a></p>
 
 </div>
 
