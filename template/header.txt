@@ -1,11 +1,26 @@
 <div class="titleblock">
-  <div class="titleblock_donate" style="text-align:right; margin:20px 20px 0 0;">
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="V5CBWW9XYEEAE">
-      <input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donateCC_LG.gif" onClick="javascript:pageTracker._trackPageview('/donate/button/top');" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border=0 src="https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
+  <div style="float:right; margin:20px 0 0 0; padding:0 0 0 0;">
+   <table>
+    <tr>
+     <td>
+      <div style="margin:0 5px 0 0; padding:0 0 0 0;">
+       <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/FaceBook-icon.png"></a>
+       <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/Twitter-icon.png"></a>
+       <a class="webpage" target="_blank" href="https://plus.google.com/106799034872780958301"><img class="webpage" src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="vertical-align:middle;border-style:none;"/></a>
+      </div>
+     </td>
+     <td>
+      <div class="titleblock_donate" style="margin:0 0 0 0; padding:0 0 0 0;">
+       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="V5CBWW9XYEEAE">
+        <input type="image" width="105" src="https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donateCC_LG.gif" onClick="javascript:pageTracker._trackPageview('/donate/button/top');" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border=0 src="https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/scr/pixel.gif" width="1" height="1">
+       </form>
+      </div>
+     </td>
+    </tr>
+   </table>
   </div>
 </div>
 

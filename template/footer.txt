@@ -4,7 +4,7 @@
 <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/FaceBook-icon.png"></a>
 <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" src="/pics/Twitter-icon.png"></a>
 <a class="webpage" target="_blank" href="https://plus.google.com/106799034872780958301"><img class="webpage" src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="vertical-align:middle;border-style:none;"/></a>
-&nbsp&nbsp&nbsp&nbsp &copy; &lt;2011&gt; OpenEMR</p>
+&nbsp&nbsp&nbsp&nbsp &copy; &lt;2012&gt; OpenEMR</p>
 
 </div>
 
