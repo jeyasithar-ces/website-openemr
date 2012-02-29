@@ -1,6 +1,6 @@
 <div class="titleblock">
   <div style="float:right; margin:20px 0 0 0; padding:0 0 0 0;">
-   <table>
+   <table style="background-color:black;">
     <tr>
      <td>
       <div style="margin:0 5px 0 0; padding:0 0 0 0;">
