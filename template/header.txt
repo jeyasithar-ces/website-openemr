@@ -11,7 +11,7 @@
      </td>
      <td>
       <div style="margin:0 5px 0 0; padding:0 0 0 0;">
-       <a class="webpage" href="/wiki/index.php/OpenEMR_Professional_Support"><img class="webpage" height="62" width="120" style="vertical-align:middle;border-style:none;" src="/pics/open-pro-support_small.png"></a>
+       <a class="webpage" href="/wiki/index.php/OpenEMR_Professional_Support"><img class="webpage" height="62" width="120" style="vertical-align:middle;border-style:none;" src="/pics/Open-pro-support_small_blue.png"></a>
       </div>
      </td>
     </tr>
