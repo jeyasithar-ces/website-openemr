@@ -4,14 +4,14 @@
     <tr>
      <td>
       <div style="margin:0 5px 0 0; padding:0 0 0 0;">
-       <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" alt="OpenEMR Facebook" src="/pics/FaceBook-icon.png"></a>
-       <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" alt="OpenEMR Twitter" src="/pics/Twitter-icon.png"></a>
-       <a class="webpage" target="_blank" href="https://plus.google.com/106799034872780958301"><img class="webpage" alt="OpenEMR Google+"" src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="vertical-align:middle;border-style:none;"/></a>
+       <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" title="OpenEMR Facebook Page" alt="OpenEMR Facebook Page" src="/pics/FaceBook-icon.png"></a>
+       <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" title="OpenEMR Twitter Page" alt="OpenEMR Twitter Page" src="/pics/Twitter-icon.png"></a>
+       <a class="webpage" target="_blank" href="https://plus.google.com/106799034872780958301"><img class="webpage" title="OpenEMR Google+ Page" alt="OpenEMR Google+ Page" src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="vertical-align:middle;border-style:none;"/></a>
       </div>
      </td>
      <td>
       <div style="margin:0 5px 0 0; padding:0 0 0 0;">
-       <a class="webpage" href="/wiki/index.php/OpenEMR_Professional_Support"><img class="webpage" height="62" width="120" style="vertical-align:middle;border-style:none;" alt="OpenEMR Professional Support" src="/pics/Open-pro-support_small_blue.png"></a>
+       <a class="webpage" href="/wiki/index.php/OpenEMR_Professional_Support"><img class="webpage" height="62" width="120" style="vertical-align:middle;border-style:none;" title=""OpenEMR Professional Support" alt="OpenEMR Professional Support" src="/pics/Open-pro-support_small_blue.png"></a>
       </div>
      </td>
     </tr>
