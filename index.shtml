@@ -85,6 +85,37 @@ OpenEMR is a Free and Open Source electronic health records and medical practice
 OpenEMR is one of the most popular open source electronic medical records in use today. OpenEMR is <a href="http://open-emr.org/wiki/index.php/OpenEMR_Support_Guide">supported</a> by a strong community of volunteers and <a href="http://open-emr.org/wiki/index.php/OpenEMR_Professional_Support">professionals</a> all with the common goal of making OpenEMR a superior alternative to its proprietary counterparts. The OpenEMR community is dedicated to guarding OpenEMR's status as a free, open source software solution for medical practices and is dedicated to maintaining a spirit of openness, kindness and cooperation. 
 </p>
 <br>
+<h2 class="webpage" style="font-size:97%;">OpenEMR Features</h2>
+<div style="font-size:85%;margin-left:1em;">
+  <table align="center">
+   <tr>
+    <td>
+     <ul style="margin:0 0 0 0;">
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Free"><b>Free</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#ONC_Certified"><b>Certified</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Patient_Demographics"><b>Patient Demographics</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Patient_Scheduling"><b>Patient Scheduling</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Electronic_Medical_Records"><b>Electronic Medical Records</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Prescriptions"><b>Prescriptions</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Medical_Billing"><b>Medical Billing</b></a></li>
+     </ul>
+    </td>
+    <td>
+     <ul style="margin:0 0 0 0;">
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Clinical_Decision_Rules"><b>Clinical Decision Rules</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Patient_Portal"><b>Patient Portal</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Reports"><b>Reports</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Multilanguage_Support"><b>Multilanguage Support</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Security"><b>Security</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Support"><b>Free Support</b></a></li>
+      <li><a href="http://open-emr.org/wiki/index.php/OpenEMR_Features#Community"><b>Vibrant Community</b></a></li>
+     </ul>
+    </td>
+   </tr>
+  </table>
+</div>
+<br>
+<br>
 <h2 class="webpage" style="font-size:97%;">OpenEMR News <span style="font-size:75%;">(Twitter Feed - @OpenEMR)</span></h2>
 <div id="twitter_statement" style="text-align:center;">
   <a href="https://twitter.com/OpenEMR" class="twitter-follow-button">Follow @OpenEMR</a>
