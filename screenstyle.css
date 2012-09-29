@@ -1,6 +1,6 @@
 /**
 
-Copyright (C) 2011 Brady Miller <brady@sparmy.com>
+Copyright (C) 2012 Brady Miller <brady@sparmy.com>
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -49,18 +49,6 @@ color:black; font-family:'Georgia', 'trebuchet MS', Verdana, Arial, 'Times', Hel
 
 h2.webpage {
 background-color:#e6e6cd; color:black; font-size:1.2em; font-weight:bold; margin:0 0 1em 0.2em; padding:0.2em; font-style:normal; font-family:'trebuchet MS', Verdana, Arial, Helvetica, sans-serif; border-top:1px solid #999999; border-bottom:1px solid #999999; border-right:2px solid #999999; border-left:1px solid #999999; text-align:center;}
-body#demos h2 {
-background-color:#e6e6cd;}
-body#documentation h2 {
-background-color:#e6e6cd;}
-body#manual h2 {
-background-color:#e6e6cd;}
-body#downloads h2 {
-background-color:#e6e6cd;}
-body#develop h2 {
-background-color:#e6e6cd;}
-body#contact h2 {
-background-color:#e6e6cd;}
 
 table.webpage {
 background-color:white;
@@ -161,18 +149,6 @@ margin:0 0 0 0;}
 
 .subbanner {
 background-color:#e6e6cd; height:2.5em; border-bottom:1px solid black; border-left:1px solid #999999; border-right:2px solid #999999;}
-body#demos .subbanner {
-background-color:#e6e6cd;}
-body#documentation .subbanner {
-background-color:#e6e6cd;}
-body#manual .subbanner {
-background-color:#e6e6cd;}
-body#downloads .subbanner {
-background-color:#e6e6cd;}
-body#develop .subbanner {
-background-color:#e6e6cd;}
-body#contact .subbanner {
-background-color:#e6e6cd;}
 
 
 ul.navbar {
@@ -191,37 +167,37 @@ a.nav:active {
 display:block; float:left; padding:0 0.5em 0 0.5em; margin:0 0.3em 0 0; text-decoration:none; background-color:#999999; color:#FFFFFF; border-top:1px solid #666666; border-left:1px solid #666666; border-right:2px solid #666666;}
 
 body#github a.nav#githubnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#sourceforge a.nav#sourceforgenav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#oemr a.nav#oemrnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#forum a.nav#forumnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#demo a.nav#demonav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#download a.nav#downloadnav {
-margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#wiki a.nav#wikinav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#home a.nav#homenav {
-margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#features a.nav#featuresnav {
-margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#support a.nav#supportnav {
-margin:0 0.5em 0 0; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#demos a.nav#demosnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#documentation a.nav#documentationnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#manual a.nav#manualnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#downloads a.nav#downloadsnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#develop a.nav#developnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 body#contact a.nav#contactnav {
-margin:0 0.5em 0 0.2em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
+margin:0 0.5em 0 0.3em; font-weight:bold; background:#fafaf5; color:black; border-top:1px solid black; border-right:2px solid black; border-left:1px solid black; border-bottom:1px solid #fafaf5;}
 
 .contentfooterwrapper {
 padding-top:0.5em; border-left:1px solid black; border-right:2px solid black; border-bottom:1px solid black;}
