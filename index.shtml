@@ -138,8 +138,11 @@ OpenEMR is a Free and Open Source electronic health records and medical practice
 <div id="twitter_statement" style="text-align:center;">
   <a href="https://twitter.com/OpenEMR" class="twitter-follow-button">Follow @OpenEMR</a>
 </div>
-<div id="twitter_body">
+<div id="twitter_body">  
   <ul id="twitter_update_list"></ul>
+  <p class="webpage">
+  The automated twitter feed is down. <a target="_blank" href="http://twitter.com/openemr">You can see the OpenEMR twitter news feed by clicking here.</a>
+  </p>
 </div>
 <br>
 <h2 class="webpage" style="font-size:90%;">What is Open Source?</h2>
