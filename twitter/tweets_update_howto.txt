@@ -1,0 +1,4 @@
+Instructions on manuall updating tweets, which is required on sourceforge web server.
+1. Go into twitter directory
+2. Type 'php -f tweets.php > manualtweets.php'
+3. Now upload the local server instance to sourceforge
