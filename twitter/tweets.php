@@ -1,5 +1,4 @@
 <?php
-session_start();
 require_once("twitteroauth/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
  
 $twitteruser = "openemr";
