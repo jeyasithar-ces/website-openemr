@@ -20,7 +20,7 @@ $(document).ready(function () {
 	
 	$('#twitter-feed').html(headerHTML + loadingHTML);
 	 
-    $.getJSON('twitter/tweets.php', 
+    $.getJSON('twitter/manualtweets.php', //This was changed to manual tweets incoming page since sourceforge web does not allow connection to twitter 
         function(feeds) {   
 		   //alert(feeds);
             var feedHTML = '';
