@@ -7,6 +7,7 @@
        <a class="webpage" target="_blank" href="http://www.facebook.com/pages/OpenEMR/181315115284266"><img class="webpage" style="vertical-align:middle;border-style:none;" title="OpenEMR Facebook Page" alt="OpenEMR Facebook Page" src="/pics/FaceBook-icon.png"></a>
        <a class="webpage" target="_blank" href="http://twitter.com/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" title="OpenEMR Twitter Page" alt="OpenEMR Twitter Page" src="/pics/Twitter-icon.png"></a>
        <a class="webpage" target="_blank" href="https://plus.google.com/106799034872780958301"><img class="webpage" title="OpenEMR Google+ Page" alt="OpenEMR Google+ Page" src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="vertical-align:middle;border-style:none;"/></a>
+       <a class="webpage" target="_blank" href="http://diasp.org/u/openemr"><img class="webpage" style="vertical-align:middle;border-style:none;" title="OpenEMR Diaspora Page" alt="OpenEMR Diaspora Page" src="/pics/diaspora_d_32.png"></a>
       </div>
      </td>
      <td>
