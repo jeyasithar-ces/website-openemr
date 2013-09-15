@@ -50,7 +50,7 @@
 <a class="webpage" href="/wiki/index.php/OpenEMR_Demo" title="Demo">Demo</a>
 <a class="webpage" href="/wiki/index.php/OpenEMR_Downloads" title="Download">Download</a>
 <a class="webpage" href="/wiki/" title="Wiki">Wiki</a>
-<a class="webpage" href="/forum.shtml" title="Forum">Forum</a>
+<a class="webpage" target="_blank" href="http://sourceforge.net/p/openemr/discussion/" title="Forum">Forum</a>
 <a class="webpage" href="/wiki/index.php/OpenEMR_Support_Guide" title="Support">Support</a>
 </p>
 </div>
